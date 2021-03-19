@@ -65,7 +65,6 @@ body {
 
 .sub-footer a{
     padding: 1%;
-    justify-content: ;
 }
 
 .contenedor{
@@ -139,6 +138,11 @@ body {
 
 .sec-2 {
     background-color: #FFF;
+}
+
+.sec-1 {
+    background-color: #24467a;
+    color: white;
 }
 
 .sub-titulo {
