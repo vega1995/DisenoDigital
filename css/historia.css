@@ -4,6 +4,19 @@ body {
     background-color: #ecb310;
 }
 
+.contactos {
+    width: 50px;
+    height: auto;
+}
+
+.footer {
+    clear: both;
+    position: relative;
+    height: 15%;
+    margin-top: 5%;
+    padding: 2%;
+}
+
 .imagen-historia {
     width: 20%; 
     height: auto;
@@ -19,30 +32,40 @@ body {
 }
 
 .imagen-historia-escalera{
-    width: 60%; 
+    width: 50%; 
     height: auto;
-    padding-top: 10%;
+    padding-top: 5%;
     padding-left: 10%;
 }
 
 .imagen-historia-diploma{
-    width: 50%; 
+    width: 30%; 
+    height: auto;
+    padding-top: 3%;
+    padding-left: 30%;
+}
+
+.imagen-historia-grupo{
+    width: 30%; 
     height: auto;
     padding-top: 5%;
     padding-left: 30%;
 }
 
-.imagen-historia-grupo{
-    width: 40%; 
+.imagen-historia-objetivo{
+    width: 30%; 
     height: auto;
-    padding-top: 10%;
     padding-left: 30%;
 }
 
-.imagen-historia-objetivo{
-    width: 50%; 
-    height: auto;
-    padding-left: 30%;
+.sub-footer{
+    display: flex;
+    align-items: center;
+}
+
+.sub-footer a{
+    padding: 1%;
+    justify-content: ;
 }
 
 .contenedor{
