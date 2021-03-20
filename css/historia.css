@@ -2,6 +2,7 @@ body {
     padding: 0px;
     margin: 0px;
     background-color: #ecb310;
+    font-family: Helvetica, sans-serif;
 }
 
 .contactos {
@@ -39,21 +40,21 @@ body {
 }
 
 .imagen-historia-diploma{
-    width: 30%;
+    width: 73%;
     height: auto;
     padding-top: 3%;
     padding-left: 30%;
 }
 
 .imagen-historia-grupo{
-    width: 30%;
-    height: auto;
-    padding-top: 5%;
-    padding-left: 30%;
+  width: 46%;
+  height: auto;
+  padding-top: 5%;
+  padding-left: 20%;
 }
 
 .imagen-historia-objetivo{
-    width: 30%;
+    width: 73%;
     height: auto;
     padding-left: 30%;
 }
@@ -151,12 +152,14 @@ body {
 }
 
 
+
 nav ul {
   padding: 0;
   margin: 0;
   text-decoration: none;
   list-style: none;
   box-sizing: border-box;
+  margin: 8px 5px;
 }
 nav a {
   text-decoration: none;
@@ -166,7 +169,7 @@ nav a {
 nav{
 /**  background: #0082e6;**/
   background: rgb(36,70,122);
-  height: 40px;
+  height: 60px;
   width: 100%;
     position:fixed;
 
@@ -260,4 +263,10 @@ section{
   background: url(bg1.jpg) no-repeat;
   background-size: cover;
   height: calc(100vh - 80px);
+}
+.logo2 {
+  color: white;
+  line-height: 70px;
+  padding: 0 100px;
+  font-weight: bold;
 }
