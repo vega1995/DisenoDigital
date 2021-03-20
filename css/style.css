@@ -221,7 +221,12 @@ margin-bottom: 15px;
     font-weight: bold;
   
   }
-  
+  .logo2 {
+    color: white;
+    line-height: 70px;
+    padding: 0 100px;
+    font-weight: bold;
+}
   .imagen img {
   
       border-radius: 20px;
